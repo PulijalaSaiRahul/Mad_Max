@@ -1,5 +1,6 @@
 echo "Welcome to project school 2.0">>file1.txt
 echo "CyberSecurity Task">>file1.txt
 ping google.com
+
 //copy ip address from answer to file
 echo "142.250.196.14" >>file1.txt
